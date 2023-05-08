@@ -4,8 +4,8 @@ Instructor: Prof. Eric Bogatin.
 
 ## Table of Contents
 * [Description](#description)
-* [Boards] (#boards)
-* [Labs] (#labs)
+* [Boards](#boards)
+* [Lab Assignments](#Lab Assignments)
 * [Author](#author)
 
 ## Description
